@@ -15,6 +15,15 @@ also provided for the rest (other) reference database.
 To start using Platypus, please refer to the `installation notes <https://github.com/biocore/Platypus-Conquistador/blob/master/INSTALL.md>`__;
 also check the `tutorial <https://github.com/biocore/Platypus-Conquistador/blob/master/TUTORIAL.md>`__.
 
+Citing
+======
+
+If you use Platypus Conquistador in a publication, please make sure to cite:
+
+- "Avoiding Pandemic Fears in the Subway and Conquering the Platypus". A.
+  Gonzalez et al. *mSystems* 2016. `http://doi.org/10.1128/mSystems.00050-16
+  <http://doi.org/10.1128/mSystems.00050-16>`__.
+
 .. |Build Status| image:: https://travis-ci.org/biocore/Platypus-Conquistador.svg
    :target: https://travis-ci.org/biocore/Platypus-Conquistador
 .. |Coverage Status| image:: https://coveralls.io/repos/biocore/Platypus-Conquistador/badge.svg
